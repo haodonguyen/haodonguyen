@@ -1,4 +1,5 @@
-## Hi there 👋
+### You can be the master of your fate, you can be the captain of your soul, but you have to realize that the life is coming from you not at you, and that takes time ###
+Timothée Chalamet
 
 <!--
 **haodonguyen/haodonguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
